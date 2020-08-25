@@ -2,6 +2,8 @@
 
 ## Where is the Jupyter Notebook?!
 
+You want to look at [advert_markets.md](./advert_markets.md).
+
 The previous guided projects in this repo have been completely self-contained in a Jupyter Notebook. Jupyter is certainly useful for what I would term exploratory data analysis; the kind of analysis where you just want to pile some data into a DataFrame for a 'go-look-see'. In some of the background reading I have been doing though, there are some downsides that can be rather counter-productive, namely:
 
 - Code cells, while very useful for playing around with code, do leave you exposed to a hidden state that can make broken code look like it works properly!
